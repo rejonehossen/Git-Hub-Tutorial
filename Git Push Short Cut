@@ -1,0 +1,47 @@
+Git Push Short Cut
+
+-First go to the project folder
+
+-Open cmd
+
+-Then copy and paste following text 
+
+echo "# Git-Hub-Tutorial" >> README.md
+git init
+git add README.md
+
+-Press Enter Button
+
+-Then write " git add ." and press Enter Button
+
+-Then copy and paste following text 
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin "your git repository url" (https://github.com/rejonehossen/Git-Hub-Tutorial.git)
+git push -u origin main
+
+-Press Enter Button 
+
+
+Congratulations your Git Hub repository push completed..........................
+
+
+
+
+
+
+
+
+
+
+echo "# Git-Hub-Tutorial" >> README.md
+git init
+git add README.md
+
+git add .
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin "your git repository url" (https://github.com/rejonehossen/Git-Hub-Tutorial.git)
+git push -u origin main
