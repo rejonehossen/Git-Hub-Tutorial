@@ -1,0 +1,21 @@
+Git Hub Update Repository
+
+
+-Go to project folder
+
+-Right click on the empty area
+
+-Click on Open Git Bash Here
+
+-"git init" Press Enter
+
+-Write "git add ." and press Enter Button
+(If You want to check which file changed write git status and press enter and there will show which file modified)
+
+-Write "git push" and press Enter Button
+
+-Your repository updated success full………………….
+
+
+
+
